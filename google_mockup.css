@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+
+.blocked {
+    display : block;
+    margin : 5em auto 0 auto;
+}
+
+.input-box {
+    background-color : white;
+    width : 25em;
+    height : 2em;
+    border : 1px solid lightgrey;
+    margin : 3em auto 1em auto;
+}
+
+.mic {
+    margin : .2em 0 .2em 23em;
+}
+
+button {
+    background-color: lightgray;
+    padding : .5em;
+
+}
+
+
+    
