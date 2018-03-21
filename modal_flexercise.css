@@ -1,0 +1,28 @@
+.modal-dialog {
+    position : fixed;
+    border : 2px solid black;
+    background-color : white;
+    padding : 0em;
+    margin : 10em 0 0 25em;
+}
+
+.modal-header {
+    background-color : gray;
+    margin : 0 0 1em 0;
+    width : 100%;
+}
+
+.modal-title {
+    font-size: 2em;
+    font-weight : 600;
+    padding : 1em;    
+}
+
+.modal-content{
+    padding : 0 1em 0 1em;
+}
+
+.modal-buttons {
+    text-align : right;
+    padding : 1em;
+}
