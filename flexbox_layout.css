@@ -18,6 +18,7 @@ body {
 .content-container {
     display: flex;
     align-content: flex-start;
+    justify-content: space-around;
 
     
 }
@@ -25,17 +26,15 @@ body {
 .box1 {
     background-color: powderblue;
     border: 1px solid black;
-    margin: 1em;
-    width: 200px;
+    width: 31%;
     height: 400px;
 }
 
 .box2 {
-    background-color: powderblue;
+    background-color:powderblue;
     border: 1px solid black;
-    margin: 1em;
-    width: 200px;
-    height: 300px;
+    width: 63%;
+    height: auto;
 }
 
 .footer-wrapper {
