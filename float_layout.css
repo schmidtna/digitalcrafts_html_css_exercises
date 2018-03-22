@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+.page-header {
+    color: white;
+    text-align: center;
+    padding: 1.2em;
+    font-size: 2em;
+    font-weight: 600;
+    border-bottom: 1px solid black;
+    background-color: #90C3D4;
+}
+
+.page-footer {
+    color: white;
+    text-align: center;
+    padding: 1.2em;
+    font-size: 2em;
+    font-weight: 600;
+    border-top: 1px solid black;
+    background-color: #90C3D4;
+}
+
+.left-box {
+    float: left;
+    margin: 1em;
+    width: 31%;
+    height: 500px;
+    border: 1px solid black;
+    background-color: #90C3D4;
+}
+
+.right-box {
+    float: right;
+    margin: 1em 1em 1em 0;
+    width: 62%;
+    height: 300px;
+    border: 1px solid black;
+    background-color: #90C3D4;
+}
